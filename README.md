@@ -1,6 +1,7 @@
 1) Base interpreter Python 3.x.
 2) Execute in console
 pip install --upgrade pip
+then
 pip install -r requirements.txt
 
 3) For creating .exe
